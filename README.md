@@ -36,7 +36,7 @@ Hi! I'm dlxsmd, an experienced iOS developer with a passion for creating elegant
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 ### Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlxsmd)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
