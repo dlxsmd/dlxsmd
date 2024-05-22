@@ -30,6 +30,9 @@ Hi! I'm dlxsmd, an experienced iOS developer with a passion for creating elegant
 - **Git**
 - **CocoaPods**
 
+### Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Design
 - **Figma**
   
