@@ -43,7 +43,7 @@ Hi! I'm dlxsmd, an experienced iOS developer with a passion for creating elegant
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dlxsmd&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+)](https://github.com/dlxsmd/github-profile-trophy)
 
 ---
 
