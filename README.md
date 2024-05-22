@@ -32,6 +32,7 @@ Hi! I'm dlxsmd, an experienced iOS developer with a passion for creating elegant
 
 ### Design
 - **Figma**
+  
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 
