@@ -42,7 +42,7 @@ Hi! I'm dlxsmd, an experienced iOS developer with a passion for creating elegant
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=dlxsmd&show_icons=ture" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dlxsmd&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=dlxsmd&row=1&column=7
 )](https://github.com/dlxsmd/github-profile-trophy)
 
 ---
