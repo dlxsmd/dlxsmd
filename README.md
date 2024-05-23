@@ -40,8 +40,8 @@ Hi! I'm dlxsmd, an experienced iOS developer with a passion for creating elegant
 <p align="left"> 
    <img alt="graph" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dlxsmd&theme=nord_bright" />
 <br>
-  <img alt="Top Langs" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dlxsmd&theme=nord_bright&utcOffset=9" />
-  <img alt="github stats" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dlxsmd&theme=nord_bright" />
+  <img alt="Top Langs"  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dlxsmd&theme=nord_bright&utcOffset=9" />
+  <img alt="github stats"  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dlxsmd&theme=nord_bright" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dlxsmd&row=1&column=7
