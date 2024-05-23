@@ -39,6 +39,7 @@ Hi! I'm dlxsmd, an experienced iOS developer with a passion for creating elegant
 ### Github Stats
 <p align="left"> 
    <img alt="graph" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dlxsmd&theme=nord_bright" />
+<br>
   <img alt="Top Langs" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dlxsmd&theme=nord_bright&utcOffset=9" />
   <img alt="github stats" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dlxsmd&theme=nord_bright" />
 </p>
