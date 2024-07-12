@@ -13,17 +13,15 @@ Hi! I'm dlxsmd, an experienced iOS developer with a passion for creating elegant
 
 ### Programming Languages
 - **Swift**
-- **Java**
-- **Python**
-  
-[![My Skills](https://skillicons.dev/icons?i=swift,java,python)](https://skillicons.dev)
+- **Java**  
+[![My Skills](https://skillicons.dev/icons?i=swift,java)](https://skillicons.dev)
 
 ### Frameworks and Tools
 - **SwiftUI**
 - **SwiftData**
-- **UIKit**
 - **Combine**
 - **Alamofire**
+- **FireBase**
 
 ### Development Tools
 - **Xcode**
