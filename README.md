@@ -1,8 +1,8 @@
-# dlxsmd's iOS Developer Portfolio
+# YUKI's iOS Developer Portfolio
 
 ## About Me
 
-Hi! I'm dlxsmd, an experienced iOS developer with a passion for creating elegant and user-friendly mobile applications. With a strong background in Swift, SwiftUI, and various iOS frameworks, I enjoy tackling complex problems and delivering high-quality solutions.
+Hi! I'm Yuki Imai, an experienced iOS developer with a passion for creating elegant and user-friendly mobile applications. With a strong background in Swift, SwiftUI, and various iOS frameworks, I enjoy tackling complex problems and delivering high-quality solutions.
 
 - **Location**: Japan
 - **Email**: dlxsmd@icloud.com
