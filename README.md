@@ -9,29 +9,25 @@ Hi! I'm Yuki Imai, an experienced iOS developer with a passion for creating eleg
 
 ---
 
-## Skills
+## My Skills
 
 ### Programming Languages
-- **Swift**
-- **Java**  
-[![My Skills](https://skillicons.dev/icons?i=swift,java)](https://skillicons.dev)
+[![Programming Skills](https://skillicons.dev/icons?i=swift,java,dart,py,php,js,c,ruby,perl)](https://skillicons.dev)
 
-### Frameworks and Tools
-- **SwiftUI**
-- **SwiftData**
-- **Combine**
-- **Alamofire**
-- **FireBase**
+### Web Technologies
+[![Web Skills](https://skillicons.dev/icons?i=html,css,bootstrap,firebase,heroku)](https://skillicons.dev)
 
-### Development Tools
-- **Xcode**
-- **Git**
-- **CocoaPods**
+### Development Environments & Tools
+[![Dev Tools](https://skillicons.dev/icons?i=xcode,androidstudio,vscode,arduino,eclipse,idea,sublime,git,github,gradle)](https://skillicons.dev)
 
-### Design
-- **Figma**
-  
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+### Databases
+[![Database Skills](https://skillicons.dev/icons?i=postgres,sqlite,mysql)](https://skillicons.dev)
+
+### Operating Systems & Platforms
+[![OS Skills](https://skillicons.dev/icons?i=apple,windows,linux,arch,bash)](https://skillicons.dev)
+
+### Other Tools & Technologies
+[![Other Skills](https://skillicons.dev/icons?i=discord,bots,figma,flutter,stackoverflow,regex,powershell,notion,obsidian,mint)](https://skillicons.dev)
 
 
 ### Github Stats
